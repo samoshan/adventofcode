@@ -5,7 +5,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | Day | Puzzle | Stars | Code | # SLOC |
 |-:|-|-|-|-|
 | 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | ⭐⭐ | [day1.py](01/day1.py) | 3 |
-| 2 |
+| 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | ⭐⭐ | [day2.py](02/day2.py) | 9 |
 | 3 |
 | 4 |
 | 5 |
