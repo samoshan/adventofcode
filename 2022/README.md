@@ -8,7 +8,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | ⭐⭐ | [day2.py](02/day2.py) | 4 |
 | 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | ⭐⭐ | [day3.py](03/day3.py) | 4 |
 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | ⭐⭐ | [day4.py](04/day4.py) | 2 |
-| 5 |
+| 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐⭐ | [day5.py](05/day5.py) | 7 |
 | 6 |
 | 7 |
 | 8 |
