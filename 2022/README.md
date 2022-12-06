@@ -9,7 +9,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | ⭐⭐ | [day3.py](03/day3.py) | 4 |
 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | ⭐⭐ | [day4.py](04/day4.py) | 2 |
 | 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐⭐ | [day5.py](05/day5.py) | 7 |
-| 6 |
+| 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐⭐ | [day6.py](06/day6.py) | 1 |
 | 7 |
 | 8 |
 | 9 |
