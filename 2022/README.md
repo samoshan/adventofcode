@@ -11,7 +11,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | ⭐⭐ | [day5.py](05/day5.py) | 7 |
 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐⭐ | [day6.py](06/day6.py) | 1 |
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐⭐ | [day7.py](07/day7.py) | 8 |
-| 8 |
+| 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐⭐ | [day8.py](08/day8.py) | 5 |
 | 9 |
 | 10 |
 | 11 |
