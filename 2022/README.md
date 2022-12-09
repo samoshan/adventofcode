@@ -12,7 +12,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | ⭐⭐ | [day6.py](06/day6.py) | 1 |
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | ⭐⭐ | [day7.py](07/day7.py) | 8 |
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | ⭐⭐ | [day8.py](08/day8.py) | 5 |
-| 9 |
+| 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | ⭐⭐ | [day9.py](09/day9.py) | 9 |
 | 10 |
 | 11 |
 | 12 |
