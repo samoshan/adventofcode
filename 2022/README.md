@@ -16,7 +16,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | ⭐⭐ | [day10.py](10/day10.py) | 6 |
 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | ⭐⭐ | [day11.py](11/day11.py) | 8 |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | ⭐⭐ | [day12.py](12/day12.py) | 10 |
-| 13 |
+| 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | ⭐⭐ | [day13.py](13/day13.py) | 9 |
 | 14 |
 | 15 |
 | 16 |
