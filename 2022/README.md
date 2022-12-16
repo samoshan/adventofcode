@@ -19,7 +19,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | ⭐⭐ | [day13.py](13/day13.py) | 9 |
 | 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | ⭐⭐ | [day14.py](14/day14.py) | 7 |
 | 15 |
-| 16 |
+| 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | ⭐⭐ | [day16.py](16/day16.py) | 11 |
 | 17 |
 | 18 |
 | 19 |
