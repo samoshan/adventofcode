@@ -21,7 +21,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 15 |
 | 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | ⭐⭐ | [day16.py](16/day16.py) | 11 |
 | 17 |
-| 18 |
+| 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | ⭐⭐ | [day18.py](18/day18.py) | 8 |
 | 19 |
 | 20 |
 | 21 |
