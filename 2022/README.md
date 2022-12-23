@@ -24,7 +24,7 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | ⭐⭐ | [day18.py](18/day18.py) | 8 |
 | 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | ⭐⭐ | [day19.py](19/day19.py) | 10 |
 | 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | ⭐⭐ | [day20.py](20/day20.py) | 5 |
-| 21 |
+| 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | ⭐⭐ | [day21.py](21/day21.py) | 9 |
 | 22 |
 | 23 |
 | 24 |
