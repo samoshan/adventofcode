@@ -26,6 +26,6 @@ For 2022 I am using Python with a focus on trying to write a low number of lines
 | 20 | [Grove Positioning System](https://adventofcode.com/2022/day/20) | ⭐⭐ | [day20.py](20/day20.py) | 5 |
 | 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | ⭐⭐ | [day21.py](21/day21.py) | 9 |
 | 22 |
-| 23 |
+| 23 | [Unstable Diffusion](https://adventofcode.com/2022/day/23) | ⭐⭐ | [day23.py](23/day23.py) | 9 |
 | 24 |
 | 25 |
